@@ -1,0 +1,35 @@
+﻿  MyForm.cpp
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\MyForm.h(273,18): warning C4101: 'name': variable local sin referencia
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\MyForm.h(272,6): warning C4101: 'numero': variable local sin referencia
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\MyForm.h(274,6): warning C4101: 'gen': variable local sin referencia
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\MyForm.cpp(8,1): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Poke.cpp
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(7,8): error C2143: error de sintaxis: falta ';' delante de '^'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(7,8): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(7,16): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(3,11): error C2039: "getNum": no es un miembro de "Poke"
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(3): message : vea la declaración de 'Poke'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(5,9): error C2065: 'num': identificador no declarado
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(7,7): error C2143: error de sintaxis: falta ';' delante de '^'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(7,7): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(7,15): error C2039: "getName": no es un miembro de "Poke"
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(3): message : vea la declaración de 'Poke'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(8,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(8,1): error C2059: error de sintaxis: '{'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(8,1): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(8,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(11,11): error C2039: "getGen": no es un miembro de "Poke"
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(3): message : vea la declaración de 'Poke'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(13,9): error C2065: 'gen': identificador no declarado
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(17,12): error C2039: "setNum": no es un miembro de "Poke"
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(3): message : vea la declaración de 'Poke'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(19,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(21,12): error C2039: "setName": no es un miembro de "Poke"
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.h(3): message : vea la declaración de 'Poke'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(21,28): error C2065: '_nom': identificador no declarado
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(21,19): error C2182: 'setName': este uso de 'void' no es válido
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(22,1): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(22,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(25,6): error C2653: 'Pokemon': no es un nombre de clase o espacio de nombres
+C:\Users\Giancarlo\Documents\Segundo Semestre\Visual Studio\LAB6_GOB_1230222\LAB6_GOB_1230222\Poke.cpp(27,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+  Generando código...
